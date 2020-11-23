@@ -1,9 +1,4 @@
-# Intro to Programming Portfolio
-# Joey Diamond
-
-Click [Here](https://github.com/JoeyDiamond115/JoeyDiamond115.github.io/edit/main/README.md) to see this page in GitHub.
-
-Here is a list of programming projects that I've worked on.
+# Joey Diamond's Intro to Programming Portfolio
 
 ## Adventure Game
 Format: ![](file:///D:/Balis/Pictures/Saved%20Pictures/AdventureGame.png)
@@ -36,3 +31,5 @@ blah blah
 ## Trivia Game
 
 blah blah
+
+Click [Here](https://github.com/JoeyDiamond115/JoeyDiamond115.github.io/edit/main/README.md) to see this page in GitHub.
