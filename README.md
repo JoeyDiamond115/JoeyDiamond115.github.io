@@ -1,11 +1,13 @@
-## Welcome to GitHub Pages
+# Intro to Programming Portfolio
+## Joey Diamond
 
-You can use the [editor on GitHub](https://github.com/JoeyDiamond115/JoeyDiamond115.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Click [Here](https://github.com/JoeyDiamond115/JoeyDiamond115.github.io/edit/main/README.md) to see this page in GitHub.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is a list of programming projects I've worked on.
 
-### Markdown
-
+### Adventure Game
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
