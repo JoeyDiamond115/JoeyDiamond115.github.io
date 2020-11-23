@@ -1,13 +1,13 @@
 # Intro to Programming Portfolio
-## Joey Diamond
+# Joey Diamond
 
 Click [Here](https://github.com/JoeyDiamond115/JoeyDiamond115.github.io/edit/main/README.md) to see this page in GitHub.
 
-Here is a list of programming projects I've worked on.
+Here is a list of programming projects that I've worked on.
 
-### Adventure Game
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+## Adventure Game
+![Screenshot](file:///D:/Balis/Pictures/Saved%20Pictures/AdventureGame.png)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
