@@ -4,7 +4,7 @@
 
 A text-based adventure game where the player explores the World's Fair of 1893. It shows off object oriented programmings' fundamental principles of inheritence, encapsulation, and polymorphism. 
 
-![Image](https://drive.google.com/file/d/1KUYcWQEPm5xLxxevbmDYtWyyIsrmHeMq/view?usp=sharing)
+![AdventureGame](https://user-images.githubusercontent.com/74879325/100317950-d45c3a00-2f82-11eb-95ef-dff669adb3b9.png)
 
 Additional Information (Technical Details): The "choose your own adventure" nature of the game allows the player to experience different events with each play through. They can come across new foods first introduced at the fair (Juicy Fruit gum, Cracker Jack Popcorn, Aunt Jemimas Syrup), different exhibits that were presented (Cold Storage Building, Electrical Building, the Ferris Wheel), and recognizable people who attended the magnificent event (Nikola Tesla, Milton Hershey, HH Holmes). 
 
