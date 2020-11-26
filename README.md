@@ -1,20 +1,24 @@
 # Joey Diamond's Intro to Programming Portfolio
 
 ## Adventure Game
-Format: ![](file:///D:/Balis/Pictures/Saved%20Pictures/AdventureGame.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A text-based adventure game where the player explores the World's Fair of 1893. It shows off object oriented programmings' fundamental principles of inheritence, encapsulation, and polymorphism. 
 
+![Image](https://drive.google.com/file/d/1KUYcWQEPm5xLxxevbmDYtWyyIsrmHeMq/view?usp=sharing)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Additional Information (Technical Details): The "choose your own adventure" nature of the game allows the player to experience different events with each play through. They can come across new foods first introduced at the fair (Juicy Fruit gum, Cracker Jack Popcorn, Aunt Jemimas Syrup), different exhibits that were presented (Cold Storage Building, Electrical Building, the Ferris Wheel), and recognizable people who attended the magnificent event (Nikola Tesla, Milton Hershey, HH Holmes). 
 
 ## Study Application
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoeyDiamond115/JoeyDiamond115.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+An application that helps users study programming based vocabulary words. This program is unique in that it uses the "using System.IO" derective to read in the terms and their definitions from an external file. 
+
+
+
+Additional Information (Problem Solving): 
 
 ## Explorable Areas
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
 
 ## Underwater Creatures
 
