@@ -59,7 +59,7 @@
 
 ## Shift Cipher App (GUI Version)
 
-**Description:** Similar to the normal Shift Cipher app, this application lets the player, a "secret agent" choose to use a substitution cipher or Caesar cipher to encrypt or decrypt a message of their choosing.
+**Description:** Similar to the normal Shift Cipher app, this application lets the player, a "secret agent," choose to use a substitution cipher or Caesar cipher to encrypt or decrypt a message of their choosing.
 
 ![AgentGUI1](https://user-images.githubusercontent.com/74879325/101279867-080d4000-378b-11eb-9812-e60da6e9bb4a.png)
 
