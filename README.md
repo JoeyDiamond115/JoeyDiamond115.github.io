@@ -64,12 +64,15 @@
 ![AgentGUI1](https://user-images.githubusercontent.com/74879325/101279867-080d4000-378b-11eb-9812-e60da6e9bb4a.png)
 
 Image of the application before anything has been pressed.
+
 ![AgentGUI2](https://user-images.githubusercontent.com/74879325/101279883-2b37ef80-378b-11eb-8c6a-ff801aa216d5.png)
 
 Image of the application after using the encrypted substitution cipher.
+
 ![AgentGUI3(Caesar)](https://user-images.githubusercontent.com/74879325/101279937-971a5800-378b-11eb-98a4-4ca39f1f5473.png)
 
 Image of the application after using the encrypted Caesar cipher.
+
 ![AgentGUI4](https://user-images.githubusercontent.com/74879325/101279951-ad281880-378b-11eb-8137-73af631b86d3.png)
 
 Image of some application code.
