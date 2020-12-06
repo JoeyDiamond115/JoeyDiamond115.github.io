@@ -57,5 +57,20 @@
 
 **Additional Information (Technical Details):** This was the first application I created that took advantage of changing the backgorund color for thw window screen, alongside utilizing a random element within an array. Each hero/god that is presented is randomly chosen as the player continues. 
 
+## Shift Cipher App (GUI Version)
+
+**Description:** Similar to the normal Shift Cipher app, this application lets the player, a "secret agent" choose to use a substitution cipher or Caesar cipher to encrypt or decrypt a message of their choosing.
+
+![AgentGUI1](https://user-images.githubusercontent.com/74879325/101279867-080d4000-378b-11eb-9812-e60da6e9bb4a.png)
+Image of the application before anything has been pressed.
+![AgentGUI2](https://user-images.githubusercontent.com/74879325/101279883-2b37ef80-378b-11eb-8c6a-ff801aa216d5.png)
+Image of the application after using the encrypted substitution cipher.
+![AgentGUI3(Caesar)](https://user-images.githubusercontent.com/74879325/101279937-971a5800-378b-11eb-98a4-4ca39f1f5473.png)
+Image of the application after using the encrypted Caesar cipher.
+![AgentGUI4](https://user-images.githubusercontent.com/74879325/101279951-ad281880-378b-11eb-8137-73af631b86d3.png)
+Image of some application code.
+
+**Additional Information (Problem Solving):** While I was working on this program, I was very confused on how to access a XAML property in my C# code. After a while of tinkering, I found it helpful to scrap my additional classes entirely and focus on the two premade classes the program had started with. This helped me reference the player's input textbox, which allowed me to decode their message. 
+
 
 Click [Here](https://github.com/JoeyDiamond115/JoeyDiamond115.github.io/edit/main/README.md) to see this page in GitHub.
